@@ -15,10 +15,10 @@ export const About = () => {
             </div>
             <div>
                 <ul className='flex justify-center gap-5 text-2xl'>
-                    <li><a href=""><AiFillLinkedin className='hover:text-[#0A66C2]'/></a></li>
-                    <li><a href=""><AiFillSkype className='hover:text-[#00AFF0]'/></a></li>
-                    <li><a href=""><FaWhatsapp className='hover:text-[#25D366]'/></a></li>
-                    <li><a href=""><FaTelegram className='hover:text-[#0088CC]'/></a></li>
+                    <li><a href="#"><AiFillLinkedin className='hover:text-[#0A66C2]'/></a></li>
+                    <li><a href="#"><AiFillSkype className='hover:text-[#00AFF0]'/></a></li>
+                    <li><a href="#"><FaWhatsapp className='hover:text-[#25D366]'/></a></li>
+                    <li><a href="#"><FaTelegram className='hover:text-[#0088CC]'/></a></li>
                 </ul>
             </div>
             <div className='mt-8'>
