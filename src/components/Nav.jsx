@@ -23,7 +23,7 @@ export const Nav = () => {
 
     return (
         <nav className="flex justify-between p-5">
-            <h1 className='text-2xl'>ivargasm</h1>
+            <h1 className='text-2xl text-main-title dark:text-main-title-dark'>ivargasm</h1>
             <ul className='flex items-center gap-5'>
                 {darkMode === 'dark'
                     ? <li><BsSun className='cursor-pointer text-2xl' onClick={toggleDarkMode} /></li>

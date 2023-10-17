@@ -26,6 +26,10 @@ export default {
           DEFAULT: '#4A74A5',
           dark: '#8DABD4'
         },
+        'subtitle': {
+          DEFAULT: '#212F3E',
+          dark: '#FDE047'
+        },
         'btn': {
           DEFAULT: '#4A74A5',
           text: '#FFFFFF',
@@ -59,6 +63,16 @@ export default {
         'modal-bg': {
           DEFAULT: 'rgba(255, 255, 255, 0.4)',
           dark: 'rgba(0, 0, 0, 0.7)'
+        },
+        // Nuevo color para el modo light
+        'section-light': {
+          DEFAULT: '#F9F2E8',  // Arena
+          '90': '#E9E1D2'     // Un tono un poco más oscuro para variaciones
+        },       
+        // Nuevo color para el modo dark
+        'section-dark': {
+          DEFAULT: '#2B3A4E',  // Un azul oscuro profundo
+          '90': '#1F2A3B'     // Un tono un poco más claro para variaciones
         }
       },
       fontFamily: {
