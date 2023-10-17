@@ -27,7 +27,7 @@ export default {
           dark: '#8DABD4'
         },
         'subtitle': {
-          DEFAULT: '#212F3E',
+          DEFAULT: '#119897',
           dark: '#FDE047'
         },
         'btn': {

@@ -5,7 +5,7 @@ import etl from '../assets/etl.jpeg'
 export const Services = () => {
     return (
         <section className="text-main-text dark:text-main-text-dark bg-section-light dark:bg-section-dark-90 py-10">
-            <h3 className='text-3xl py-3 text-center font-ubuntu mb-7'>Services</h3>
+            <h3 className='text-3xl py-3 text-center font-ubuntu mb-7 text-subtitle dark:text-subtitle-dark'>Services</h3>
             <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 items-center w-4/5 sm:w-5/6 mx-auto'>
                 <div className='shadow-lg rounded-xl py-5 shadow-slate-800/70 dark:shadow-slate-400/20'>
                     <div className='flex flex-col overflow-hidden items-center'>

@@ -7,7 +7,7 @@ export const About = () => {
         <section className='pr-5 pb-5 pl-5 sm:w-4/5 lg:w-3/5 sm:mx-auto mb-10'>
             <div className="text-center px-3 pt-2">
                 <h2 className="text-4xl py-3 text-main-title dark:text-main-title-dark font-medium">Ismael Vargas Martinez</h2>
-                <h3 className="text-2xl py-2 text-main-text dark:text-main-text-dark">Developer and Data Engineer</h3>
+                <h3 className="text-2xl py-2 text-subtitle dark:text-subtitle-dark">Developer and Data Engineer</h3>
                 <p className="text-md py-5 leading-7 text-gray dark:text-gray-dark text-wrap-balance">I&apos;m passionate about technology, especially web development, databases, networks, and programming. My rapid learning curve shines in these areas</p>
             </div>
             <div>
