@@ -12,10 +12,10 @@ export const About = () => {
             </div>
             <div>
                 <ul className='flex justify-center gap-5 text-2xl'>
-                    <li><a href="#"><AiFillLinkedin className='hover:text-[#0A66C2]'/></a></li>
-                    <li><a href="#"><AiFillSkype className='hover:text-[#00AFF0]'/></a></li>
-                    <li><a href="#"><FaWhatsapp className='hover:text-[#25D366]'/></a></li>
-                    <li><a href="#"><FaTelegram className='hover:text-[#0088CC]'/></a></li>
+                    <li><a href="https://www.linkedin.com/in/ismael-vargas-martinez-47a618195/" target='_blank' rel='noreferrer'><AiFillLinkedin className='hover:text-[#0A66C2]'/></a></li>
+                    <li><a href="https://join.skype.com/invite/GRs4gM92kIPi" target='_blank' rel='noreferrer'><AiFillSkype className='hover:text-[#00AFF0]'/></a></li>
+                    <li><a href="whatsapp://send/?phone=524421816860&text=Manda+el+mensaje+para+hablar&app_absent=0&lang=es" target='_blank' rel='noreferrer'><FaWhatsapp className='hover:text-[#25D366]'/></a></li>
+                    <li><a href="https://t.me/ivargasm" target='_blank' rel='noreferrer'><FaTelegram className='hover:text-[#0088CC]'/></a></li>
                 </ul>
             </div>
             <div className='mt-8'>

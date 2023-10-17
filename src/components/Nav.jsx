@@ -22,7 +22,7 @@ export const Nav = () => {
     }, [darkMode]);
 
     return (
-        <nav className="flex justify-between p-5">
+        <nav className="flex justify-between p-5 sticky bg-main-bg/50 dark:bg-main-bg-dark/50 top-0">
             <h1 className='text-2xl text-main-title dark:text-main-title-dark'>ivargasm</h1>
             <ul className='flex items-center gap-5'>
                 {darkMode === 'dark'
