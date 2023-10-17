@@ -60,6 +60,10 @@ export default {
           DEFAULT: 'rgba(255, 255, 255, 0.4)',
           dark: 'rgba(0, 0, 0, 0.7)'
         }
+      },
+      fontFamily: {
+        'poppins': ['Poppins'],
+        'ubuntu': ['Ubuntu'],
       }
     },
   },
