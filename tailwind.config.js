@@ -50,7 +50,7 @@ export default {
         },
         'shadow': {
           DEFAULT: 'rgba(0, 0, 0, 0.1)',
-          dark: 'rgba(0, 0, 0, 0.5)'
+          dark: 'rgba(240, 240, 240, 0.1)'
         },
         'card-code': {
           DEFAULT: '#F6F2E6',

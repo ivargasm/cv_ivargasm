@@ -1,4 +1,5 @@
 import { About } from './components/About'
+import { Jobs } from './components/Jobs'
 import { Nav } from './components/Nav'
 import { Services } from './components/Services'
 import './index.css'
@@ -10,6 +11,7 @@ function App() {
       <Nav/>
       <About/>
       <Services/>
+      <Jobs/>
     </main>
   )
 }
