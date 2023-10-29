@@ -12,14 +12,14 @@ export const Jobs = () => {
     
 
     return (
-        <section className="p-4 text-main-text dark:text-main-text-dark bg-main-bg dark:bg-main-bg-dark w-11/12 mx-auto">
+        <section className="px-4 py-10 pb-12 text-main-text dark:text-main-text-dark bg-main-bg dark:bg-main-bg-dark w-11/12 mx-auto">
             <h3 className='text-3xl py-3 text-center font-ubuntu mb-5 text-subtitle dark:text-subtitle-dark'>Jobs</h3>
             <div className="rounded-lg flex flex-col gap-5">
                 <div className="rounded-md bg-main-bg-90 dark:bg-main-bg-dark-90 shadow dark:shadow-shadow-dark" onClick={toggleAcordeon}>
                     <div className="p-4 cursor-pointer text-subtitle dark:text-subtitle-dark text-lg">
                         Storechek - Sep 2017 - Data Leader
                     </div>
-                    <div className="overflow-hidden transition-all ease-in-out duration-500 rounded-b-md bg-main-bg dark:bg-main-bg-dark text-main-text dark:text-gray-dark" style={{maxHeight: '0'}}>
+                    <div className="overflow-hidden transition-all ease-in-out duration-500 rounded-b-md bg-main-bg dark:bg-main-bg-dark text-main-text dark:text-gray-dark" style={{maxHeight: '1000px'}}>
                         <div className="p-4 text-wrap-balance">
                             <p className='mb-3'>Storecheck is a Market Intelligence company in which I have been able to participate in several projects helping clients to optimize their processes by automating them through the application of ETLs, designing databases and leading teams.</p>
                             <ul className='list-disc list-inside pl-3'>

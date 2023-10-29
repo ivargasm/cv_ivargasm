@@ -2,6 +2,7 @@ import { About } from './components/About'
 import { Jobs } from './components/Jobs'
 import { Nav } from './components/Nav'
 import { Services } from './components/Services'
+import { Skills } from './components/Skills'
 import './index.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <About/>
       <Services/>
       <Jobs/>
+      <Skills/>
     </main>
   )
 }
