@@ -1,0 +1,274 @@
+{
+    "es": {
+        "title": "ivargasm",
+        "nav": {
+            "button": "Currículum"
+        },
+        "about": {
+            "name": "Ismael Vargas Martínez",
+            "title": "Desarrollador e Ingeniero de Datos",
+            "resume": "Soy apasionado por la tecnología, especialmente el desarrollo web, las bases de datos, las redes y la programación. Mi rapida curva de aprendizaje brilla en estas áreas. ",
+            "portfolio": "Aquí puedes ver mi ",
+            "lnk": "portafolio"
+        },
+        "services": {
+            "title": "Servicios",
+            "db": {
+                "title": "Bases de Datos",
+                "resume": "Diseño y administración de bases de datos relacionales siguiendo las mejores prácticas para un rendimiento óptimo.",
+                "image": "db"
+            },
+            "web": {
+                "title": "Diseño Web",
+                "resume": "Diseño y maquetación de sitios web utilizando las mejores prácticas para el posicionamiento en los motores de búsqueda (SEO).",
+                "image": "wd"
+            },
+            "etl": {
+                "title": "ETLs",
+                "resume": "Análisis y diseño de ETLs para la transformación y gestión de información de forma automatizada.",
+                "image": "etl"
+            }
+        },
+        "jobs": {
+            "title": "Experiencia Laboral",
+            "sto": {
+                "title": "Storechek - Sep 2017 - Líder de Datos",
+                "resume": "Storecheck es una empresa de Inteligencia de Mercado en la que he participado en varios proyectos ayudando a los clientes a optimizar sus procesos mediante la automatización a través de la aplicación de ETLs, diseñando bases de datos y liderando equipos.",
+                "activities": {
+                    "1": "Líder de equipo.",
+                    "2": "Diseño de bases de datos.",
+                    "3": "Desarrollo de bases de datos.",
+                    "4": "Administración de bases de datos relacionales y modelo estrella.",
+                    "5": "Optimización de consultas.",
+                    "6": "Automatización del procesamiento de datos.",
+                    "7": "Desarrollo de ETLs con Pentaho.",
+                    "8": "Desarrollo de ETLs con Amazon Glue.",
+                    "9": "Generación de informes con Amazon Quicksight.",
+                    "10": "Programación con Python.",
+                    "11": "Análisis de datos.",
+                    "12": "Participación en diferentes proyectos de inteligencia de mercado como analista de bases de datos y/o líder de proyectos.",
+                    "13": "Desarrollo de algoritmos en el lenguaje Python para la manipulación de datos."
+                }
+            },
+            "unea": {
+                "title": "UNEA - Sep 2009 - Jun 2017 - Coordinador de Servicios de TI",
+                "resume": "En UNEA tuve la oportunidad de comenzar como parte del equipo de sistemas, brindando soporte a todo el personal y estudiantes del campus, realizando mantenimiento en equipos de cómputo y en la red alámbrica e inalámbrica. Tiempo después, se me dio la oportunidad de asumir el cargo de coordinador de servicios informáticos, por lo que mis funciones cambiaron y tuve más funciones administrativas (trato con proveedores, planificación de nuevos proyectos, dirección de proyectos y equipos) y de seguridad (configuración de políticas de seguridad, administración de servidores).",
+                "activities": {
+                    "1": "Docente",
+                    "2": "Planificación de estrategias operativas: Preparación, diseño y actualización de manuales de operación y procedimientos.",
+                    "3": "Configuración de políticas de red.",
+                    "4": "Gestión para la adquisición de recursos tecnológicos.",
+                    "5": "Coordinar expansiones de la red de voz y datos.",
+                    "6": "Mantenimiento preventivo/correctivo de hardware/software.",
+                    "7": "Mantenimiento de la red alámbrica e inalámbrica.",
+                    "8": "Instalación de sistemas operativos."
+                }
+            },
+            "nb": {
+                "title": "Niños de Belén",
+                "resume": "En la guardería y preescolar Niños de Belén, tuve la oportunidad de impartir clases de Tae Kwon Do para niños, implementando una metodología que les permite desarrollar sus habilidades no solo en este arte marcial, sino en todas las actividades físicas, desarrollando sus facultades psicomotoras.",
+                "activities": {
+                    "1": "Maestro de Tae Kwon Do"
+                }
+            }
+        },
+        "skills": {
+            "title": "Habilidades",
+            "html": {
+                "title": "HTML",
+                "resume": "Marcado web",
+                "image": "html"
+            },
+            "css": {
+                "title": "CSS",
+                "resume": "Estilos web",
+                "image": "css"
+            },
+            "JavaScript": {
+                "title": "JavaScript",
+                "resume": "Interactividad web",
+                "image": "javascript"
+            },
+            "React": {
+                "title": "React",
+                "resume": "Biblioteca de JavaScript",
+                "image": "react"
+            },
+            "Tailwind": {
+                "title": "Tailwind CSS",
+                "resume": "Framework CSS",
+                "image": "tailwind"
+            },
+            "PHP": {
+                "title": "PHP",
+                "resume": "Programación del lado del servidor",
+                "image": "php"
+            },
+            "Laravel": {
+                "title": "Laravel",
+                "resume": "Framework PHP",
+                "image": "laravel"
+            },
+            "Python": {
+                "title": "Python",
+                "resume": "Lenguaje de programación",
+                "image": "python"
+            },
+            "AWS": {
+                "title": "AWS",
+                "resume": "Servicios en la nube",
+                "image": "aws"
+            },
+            "db": {
+                "title": "Bases de Datos",
+                "resume": "Bases de datos SQL",
+                "image": "db"
+            },
+            "github": {
+                "title": "GitHub",
+                "resume": "Control de versiones",
+                "image": "github"
+            }
+        },
+        "contact": {
+            "title": "Contacto",
+            "resume": "Mi bandeja de entrada siempre está disponible para preguntas, proyectos o si simplemente quieres saludar. ¡Te responderé lo antes posible! 👋"
+        }
+    },
+    "en": {
+        "title": "ivargasm",
+        "nav": {
+            "button": "Resume"
+        },
+        "about": {
+            "name": "Ismael Vargas Martinez",
+            "title": "Developer and Data Engineer",
+            "resume": "I'm passionate about technology, especially web development, databases, networks, and programming. My rapid learning curve shines in these areas.",
+            "portfolio": "here you can see my ",
+            "lnk": "portfolio"
+        },
+        "services": {
+            "title": "services",
+            "db": {
+                "title": "Database",
+                "resume": "Design and administration of relational databases with the best practices for optimal performance.",
+                "image": "db"
+            },
+            "web": {
+                "title": "Web desing",
+                "resume": "Design and layout of websites using the best practices for the &quot;SEO&quot; positioning of the page.",
+                "image": "wd"
+            },
+            "etl": {
+                "title": "ETLs",
+                "resume": "Analysis and design of ETLs for the transformation and management of information in an automated way.",
+                "image": "etl"
+            }
+        },
+        "jobs": {
+            "title": "Jobs",
+            "sto": {
+                "title": " Storechek - Sep 2017 - Data Leader",
+                "resume": "Storecheck is a Market Intelligence company in which I have been able to participate in several projects helping clients to optimize their processes by automating them through the application of ETLs, designing databases and leading teams.",
+                "activities": {
+                    "1": "Team lead.",
+                    "2": "Database design.",
+                    "3": "Database development.",
+                    "4": "Relational database management and star mode",
+                    "5": "Query optimization",
+                    "6": "Data processing automation",
+                    "7": "Development of Etls with Pentaho",
+                    "8": "Developing Etls with Amazon Glue",
+                    "9": "Reporting with Amazon Quicksight",
+                    "10": "Programming with python",
+                    "11": "Data analysis.",
+                    "12": "Participation in different market intelligence projects as a database analyst and/or project leader",
+                    "13": "Development of algorithms in Python language for data manipulation"
+                }
+            },
+            "unea": {
+                "title": "UNEA - Sep 2009 - Jun 2017 - IT Services Coordinator",
+                "resume": "At UNEA I had the opportunity to start as part of the systems department team, supporting all campus staff and students, performing maintenance on computer equipment and the wired and wireless network. Some time later I was given the opportunity to take the position of coordinator of computer services, so my functions changed and I had more administrative functions (dealing with suppliers, planning of new projects, direction of projects and teams.) and security (configuration of security policies, server administration)",
+                "activities": {
+                    "1": "Teacher",
+                    "2": "Planning of operational strategies: Preparation, design and updating of operation manuals and procedures",
+                    "3": "Network policy settings",
+                    "4": "Management for the acquisition of technological resources",
+                    "5": "Coordinate voice and data network expansions",
+                    "6": "Preventive/corrective hardware/software maintenance",
+                    "7": "Wired and wireless network maintenance",
+                    "8": "Installing operating systems"
+                }
+            },
+            "nb": {
+                "title": "Children of Belen",
+                "resume": "In the nursery and preschool Children of Belen I had the opportunity to work Tae Kwon Do classes for children implementing a methodology that allows them to develop their abilities not only in this martial art but in all physical activity developing their psychomotor faculties.",
+                "activities": {
+                    "1": "Teacher"
+                }
+            }
+        },
+        "skills": {
+            "title": "Skills",
+            "html": {
+                "title": "HTML",
+                "resume": "Web Markup",
+                "image": "html"
+            },
+            "css": {
+                "title": "CSS",
+                "resume": "Web styles",
+                "image": "css"
+            },
+            "JavaScript": {
+                "title": "JavaScript",
+                "resume": "Web interactivity",
+                "image": "javascript"
+            },
+            "React": {
+                "title": "React",
+                "resume": "JavaScript Library",
+                "image": "react"
+            },
+            "Tailwind": {
+                "title": "Tailwind CSS",
+                "resume": "CSS Framework",
+                "image": "tailwind"
+            },
+            "PHP": {
+                "title": "PHP",
+                "resume": "Server side programming",
+                "image": "php"
+            },
+            "Laravel": {
+                "title": "Laravel",
+                "resume": "PHP Framework",
+                "image": "laravel"
+            },
+            "Python": {
+                "title": "Python",
+                "resume": "programming language",
+                "image": "python"
+            },
+            "AWS": {
+                "title": "AWS",
+                "resume": "Cloud services",
+                "image": "aws"
+            },
+            "db": {
+                "title": "Databases",
+                "resume": "SQL databases",
+                "image": "db"
+            },
+            "github": {
+                "title": "Github",
+                "resume": "Version control",
+                "image": "github"
+            }
+        },
+        "contact": {
+            "title": "Contact",
+            "resume": "My inbox is always available for questions, projects or if you just feel like stopping by to say hello. I will answer you as soon as possible! 👋"
+        }
+    }
+}
