@@ -37,7 +37,7 @@ export const Nav = ({language, setLanguage, ismael}) => {
                     : <li><BsFillMoonStarsFill className='cursor-pointer text-2xl' onClick={toggleDarkMode} /></li>
                 }
                 <li onClick={toggleLanguage}><HiOutlineLanguage className='cursor-pointer text-2xl'/></li>                
-                <li><a href="#" className='px-4 py-2 bg-btn dark:bg-btn-dark text-btn-text dark:text-btn-dark-text rounded-md hover:bg-hover hover:dark:bg-hover-dark'>{ismael.nav.button}</a></li>
+                <li><a href={`/Ismael_Vargas_Martinez_${language}.pdf`} target='_blank' rel='noreferrer' className='px-4 py-2 bg-btn dark:bg-btn-dark text-btn-text dark:text-btn-dark-text rounded-md hover:bg-hover hover:dark:bg-hover-dark'>{ismael.nav.button}</a></li>
             </ul>
         </nav>
     )
