@@ -10,7 +10,7 @@ export const About = ({ismael}) => {
                 <h2 className="text-4xl py-3 text-main-title dark:text-main-title-dark font-medium">{ismael.about.name}</h2>
                 <h3 className="text-2xl py-2 text-subtitle dark:text-subtitle-dark">{ismael.about.title}</h3>
                 <p className="text-md py-5 leading-7 text-gray dark:text-gray-dark text-wrap-balance">{ismael.about.resume} <br />
-                    <span>{ismael.about.portfolio} <a href="http://ismaelvm.xyz" target="_blank" rel="noopener noreferrer" className='text-subtitle dark:text-subtitle-dark'>{ismael.about.lnk}</a></span>
+                    <span>{ismael.about.portfolio} <a href="https://ismaelvm.netlify.app/" target="_blank" rel="noopener noreferrer" className='text-subtitle dark:text-subtitle-dark'>{ismael.about.lnk}</a></span>
                 </p>
             </div>
             <div>
